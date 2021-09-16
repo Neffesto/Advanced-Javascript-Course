@@ -1,0 +1,14 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 5,
+            "product_name": "T-shirt with long sleeves",
+            "price": 140,
+            "image": "img/products/Product8.png",
+            "imageMob": "img/products/Product8mob.jpg"
+        }
+    ]
+}
